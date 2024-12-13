@@ -4,59 +4,32 @@
 
 Start
 
-Deer
-elk
-reindeer
-moose
-Sheep
-goat
-llama
-Bull
-bison
-Lion
-Tiger
-Jaguar
-Cougar
-cheetah
-ocelot
-Panther
-lynx
-Monkey
-chimpanzee
-Gorilla
-Orangatan 
-mandrill
-Horse
-rhino
-elephant
-Boar
-badger
-brown Bear
-polar bear
-Panda
-Koala
-wolverine
-tasmaine devil
-Wolf
-Hyena
-coyote
-fox
-fennec fox
-red fox
-snow fox
-Gopher
-Skunk
-Beaver
-Squireel
-Otter
-rat
-possom
-weazel
-raccoon
-hippo
-walrus
-
 ## Known Beasts
+
+### Monster
+Dogs
+
+---
+
+### Monster
+Lions
+
+---
+
+### Monster
+Tigers
+
+---
+
+### Monster
+Puma
+
+---
+
+### Monster
+Start my
+
+---
 
 ### Cane
 The cane is a beast that is smaller than a wolve that is commonly domesticated for hunting purposes.
@@ -76,13 +49,13 @@ The marther is a cat beast that shares the same size of a panther. They reside i
 ### Pantere
 The pantere is a large cat beast that is equipped with long metal-like quills.
 
-### Tyger
+### 
 The tyger is a 2 horned cat beast that lives mainly in jungle regions.
 
 ### Threshuma 
 The threshuma is a cat beast that has an iron like ball apendage at the end of its tail. It uses it to construct its den and break down the structure of its prey.
 
-### Eilknoll
+### Eiknoll
 The eiknoll is a deer beast that is covered head to hoof in a large shag pelt that keeps it warm in Torfrost’s harsh enviroment.
 
 ### Wolitzol 
@@ -278,3 +251,55 @@ Wulgrinn is an elusive giant lightning wolve that appears rarely when a destruct
 
 ### Brutus the Chained Malice
 Brutus is a devil of a beast.
+
+Deer
+elk
+reindeer
+moose
+Sheep
+goat
+llama
+Bull
+bison
+Lion
+Tiger
+Jaguar
+Cougar
+cheetah
+ocelot
+Panther
+lynx
+Monkey
+chimpanzee
+Gorilla
+Orangatan 
+mandrill
+Horse
+rhino
+elephant
+Boar
+badger
+brown Bear
+polar bear
+Panda
+Koala
+wolverine
+tasmaine devil
+Wolf
+Hyena
+coyote
+fox
+fennec fox
+red fox
+snow fox
+Gopher
+Skunk
+Beaver
+Squireel
+Otter
+rat
+possom
+weazel
+raccoon
+hippo
+walrus

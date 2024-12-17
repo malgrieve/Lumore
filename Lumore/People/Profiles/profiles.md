@@ -194,11 +194,11 @@ __Redbaan Pirates Captain__
 
 __Filibuster Pirates Captain__
 : Captain Dierge, Captain Killer ()
-> Dierge is the Captain of the Filibister Pirates. Originally, his life has always been that of a pirate as his father was the firdt captain of the infamous Redbaan pirates. His workd changed when his uncle, Southerland, betrayed hus brother and took over the group. Now on a revenge path Dierge went from being a pirate to hunting them.
+> Dierge is the Captain of the Filibister Pirates. Originally, his life has always been that of a pirate as his father was the firdt captain of the infamous Redbaan pirates. His whole world changed when his uncle, Southerland, betrayed his brother and took over the crew. Now on a revenge path, Dierge went from being a pirate to hunting them.
 
 __Xoul's Guildmaster__
 : Bayson Cross, White Death ()
-> 
+> Infamous bounty hunter that operates in the Lostlands. He was once a content priest named Lyle, living out his life with his lover, a nun named Meielie. That came crashing down when a 
 
 __ARX's Leader__
 : Malgrieve, Light of Retribution ()

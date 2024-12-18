@@ -7,17 +7,17 @@ Start
 ## Known Beasts
 
 ### Monster
-Dogs
+Dog
 
 ---
 
 ### Monster
-Lions
+Lion
 
 ---
 
 ### Monster
-Tigers
+Tiger
 
 ---
 
@@ -27,9 +27,250 @@ Puma
 ---
 
 ### Monster
-Start my
+Fox
 
 ---
+
+### Monster
+Hyena
+
+---
+
+### Monster
+Jaguar
+
+---
+
+### Monster
+Goat
+
+---
+
+### Monster
+Sheep
+
+---
+
+### Monster
+Bear
+
+---
+
+### Monster
+Deer
+
+---
+
+### Monster
+Moose
+
+---
+
+### Monster
+Wolf
+
+---
+
+### Monster
+Bull
+
+---
+
+### Monster
+Bunny
+
+---
+
+### Monster
+Horse
+
+---
+
+### Monster
+Boar
+
+---
+
+### Monster
+Hippo
+
+---
+
+### Monster
+Monkey
+
+---
+
+### Monster
+Orangatan
+
+---
+
+### Monster
+Gorilla
+
+---
+
+### Monster
+Cougar
+
+---
+
+### Monster
+Tasmaine Devil
+
+---
+
+### Monster
+Badger
+
+---
+
+### Monster
+Lynx
+
+---
+
+### Monster
+Rhino
+
+---
+
+### Monster
+Mandrill
+
+---
+
+### Monster
+Elephant
+
+---
+
+### Monster
+Bison
+
+---
+
+### Monster
+Squirrel
+
+---
+
+### Monster
+Elk
+
+---
+
+### Monster
+Cat
+
+---
+
+### Monster
+Reindeer
+
+---
+
+### Monster
+Raccoon
+
+---
+
+### Monster
+Skunk
+
+---
+
+### Monster
+Panther
+
+---
+
+### Monster
+Snow Fox
+
+---
+
+### Monster
+Start
+
+---
+
+### Monster
+Ocelot
+
+---
+
+### Monster
+Walrus
+
+---
+
+### Monster
+Beaver
+
+---
+
+### Monster
+Gopher
+
+---
+
+### Monster
+Otter
+
+---
+
+### Monster
+Koala
+
+---
+
+### Monster
+Panda
+
+---
+
+### Monster
+Weazel
+
+---
+
+### Monster
+Rat
+
+---
+
+### Monster
+Coyote
+
+---
+
+### Monster
+Chimp
+
+---
+
+### Monster
+Ice Wolf
+
+---
+
+### Monster
+Polar Bear
+
+---
+
+### Monster
+Cheetah
+
+---
+
+### Monster
+Llama
+
+---
+
 
 ### Cane
 The cane is a beast that is smaller than a wolve that is commonly domesticated for hunting purposes.
@@ -103,8 +344,6 @@ The great borswine is a lyeon sized spiked swinal beast that tastes great on a l
 ### Bicorn
 The bicorn is a mare beast that is rather territorial but is commonly tamed for human use.
 
----
-
 ### Ursuwool 
 The ursuwool is a large horned wooly baer beast that resides in the tundra or artic.
 
@@ -114,15 +353,11 @@ The Loddet is an amphibious cat beast that is equipped with fish like features. 
 ### Peyteer
 The peyteer is a large deer-like beast that has wings. These wings allow the beast to quickly escape predators on the open artic fields.
 
----
-
 ### Cugoar 
 The cugoar is a six-legged cat beast
 
 ### Lonix 
 The lonix is a small cat beast from the tundra regions. It’s small but spread paws allow it to quickly maneuver through the snow.
-
----
 
 ### Baera
 The baera is a large uruic beast that hunts as one of the top predators of the forest.
@@ -138,8 +373,6 @@ The hippoar claims kingship of the waters of the great savanna.
 
 ### Monkre
 The monkee maintains its dominance within the trees of the land.
-
-## Uniques
 
 ### Black Vulpe 
 The black vulpe is a dangerous beast that is considerably larger than a wolve but smaller than a tundra wolve. They are far more agreesive than their smaller brethren. It is said to use a form of dark magic to confuse and ensnare their prey.
@@ -159,48 +392,12 @@ The mysterious unihorn is a special mare beast that is identified by its long si
 ### White Eilk 
 The white eilk is a magic white deer beast that is native to Evern’s magical forest. It has the ability to store mana in its antlers to use different types of magics.
 
-### Monster
-Start
 
----
+<br/>
 
-### Monster
-Start
 
----
+## Named Beasts
 
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
 
 ### Errasobeast 
 The Errasobeast is a six-legged Lyon-like beast that has a grey body and thick quill-like appendages on its back. It is highly aggressive and devastates the area once agitated. They only reside near dungeons to feed off of the dungeon's internal energy. It emerges from its resting when it' sfood source is greatly disturbed.
@@ -217,15 +414,6 @@ Is a threat of a beast. It escaped from captivity through a massacre and is now 
 
 ---
 
-### Manticore
-The manticore is a terrifying amalgamation of jaws, claws, and venom. With the head of a lyeon, body of a griffen, and tail of a scorprin, this monstrous beast roams the canyons making prey of whatever fits in its mouth.
-
-<br/>
-
-
-## Named Beasts
-
-
 ### Monster
 Start
 
@@ -240,9 +428,6 @@ Start
 Start
 
 ---
-
-### Monster
-Start
 
 ### Wulgrinn the Jagged
 Wulgrinn is an elusive giant lightning wolve that appears rarely when a destructive storm appears. No one has ever gotten a good view of this famous beast and lived to tell the tale.
@@ -251,55 +436,3 @@ Wulgrinn is an elusive giant lightning wolve that appears rarely when a destruct
 
 ### Brutus the Chained Malice
 Brutus is a devil of a beast.
-
-Deer
-elk
-reindeer
-moose
-Sheep
-goat
-llama
-Bull
-bison
-Lion
-Tiger
-Jaguar
-Cougar
-cheetah
-ocelot
-Panther
-lynx
-Monkey
-chimpanzee
-Gorilla
-Orangatan 
-mandrill
-Horse
-rhino
-elephant
-Boar
-badger
-brown Bear
-polar bear
-Panda
-Koala
-wolverine
-tasmaine devil
-Wolf
-Hyena
-coyote
-fox
-fennec fox
-red fox
-snow fox
-Gopher
-Skunk
-Beaver
-Squireel
-Otter
-rat
-possom
-weazel
-raccoon
-hippo
-walrus

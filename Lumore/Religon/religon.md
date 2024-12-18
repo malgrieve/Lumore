@@ -13,33 +13,34 @@ Of the Supreme, came that of the Prime. There was Jofiel, Hermle, and Lynniel of
 ### Major Stars
 Following the will of the Prime, cometh the Major. There was Montero, Uran, Sage, Wolford, Asanna, Crozzen, Yukire, Agil, Veneti, Rachess, and Bingeal. Spreading good will to the Lumverse.
 
-- The Judge being the Major Star of Law and Reason, represented by the Lawstar.
-- The Sword being the Major Star of War and Honor, represented by the Warstar.
-- The Teacher being the Major Star of Knowledge and Wisedom, represented by the Wisestar.
-- The Wizard being the Major Star of Magic and Sorcery, represented by the Magistar.
-- The Love being the Major Staress of Love and Marriage, represented by the Lovestar.
-- The Smith being the Major Staress of the Forge and Craftsmanship, represented by the Ironstar.
-- The Rest being the Major Star of Peace and Dreams, represented by the Cloudstar.
-- The Merchant being the Major Star of Trade and Commerce, represented by the Tradestar.
-- The Saint being the Major Star of Luck and Fate, represented by the Luckstar.
-- The Hunter being the Major Staress of Hunting and Farming, represented by the Huntstar.
-- The Healer being the Major Staress of Medicine and Alchemy, represented by the Medstar.
+- The Judge being the Major Star of Law and Reason, represented by the Orderstar
+- The Commander being the Major Star of War and Honor, represented by the Iornstar
+- The Teacher being the Major Star of Knowledge and Wisedom, represented by the Wisestar
+- The Wizard being the Major Star of Magic and Sorcery, represented by the Magistar
+- The Love being the Major Staress of Love and Marriage, represented by the Lovestar
+- The Smith being the Major Staress of the Forge and Craftsmanship, represented by the Firestar
+- The Rest being the Major Star of Peace and Dreams, represented by the Cloudstar
+- The Merchant being the Major Star of Trade and Commerce, represented by the Goldstar
+- The Saint being the Major Star of Luck and Fate, represented by the Luckstar
+- The Hunter being the Major Staress of Hunting and Farming, represented by the Bowstar
+- The Healer being the Major Staress of Medicine and Alchemy, represented by the Medstar
 
 The Almighty Stars are respected.
 
 There was also Krenari, Gahl, Zakzano, Verbel, Himhia, Perizay, Inachtra, Lahkus, Teher, Eirnin, and Neieba. Spreading ill will to the Lumverse.
 
-- The Prideful being the Major Star of Pride, represented by the Egostar.
-- The Wrathful being the Major Star of Wrath, represented by the Wrathstar.
-- The Forbidden being the Major Star of Forbidden Knowledge, represented by the Corruptstar.
-- The Witch being the Major Staress of Witchcraft, represented by the Witchstar.
-- The Lustful being the Major Staress of Lust, represented by the Luststar.
-- The Slothful being the Major Star of Sloth, represented by the Slothstar.
-- The Sufferer being the Major Staress of Nightmares, represented by the Marestar.
-- The Greedy being the Major Star of Greed, represented by the Greedstar.
-- The Unfortunate being the Major Staress of Misfortune, represented by the Badstar.
-- The Glutton being the Major Star of Gluttony, represented by the Vourstar.
-- The Envious being the Major Star of Envy, represented by the Envystar.
+- The Prideful being the Major Staress of Pride, represented by the Egostar
+- The Wrathful being the Major Star of Wrath, represented by the Wrathstar
+- The Forbidden being the Major Star of Forbidden Knowledge, represented by the Ignastar
+- The Witch being the Major Staress of Witchcraft, represented by the Witchstar
+- The Lustful being the Major Staress of Lust, represented by the Luststar
+- The Slothful being the Major Star of Sloth, represented by the Slothstar
+- The Sufferer being the Major Staress of Nightmares, represented by the Marestar
+- The Greedy being the Major Star of Greed, represented by the Avastar
+- The Unfortunate being the Major Staress of Misfortune, represented by the Badstar
+- The Glutton being the Major Star of Gluttony, represented by the Vourstar
+- The Envious being the Major Star of Envy, represented by the Jealstar
+- The Astrayed Stars are followed in secret
 
 The Astrayed Stars are followed in secret.
 

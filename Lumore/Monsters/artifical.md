@@ -2,13 +2,6 @@
 
 ## Introduction
 
-Start
-
-- Chimera
-- Homunculus
-- Automaton
-- Golem
-- Yalbao (lion-headed multi-armed serpent)
 
 ## Known Beasts
 
@@ -79,3 +72,25 @@ Start
 
 ### Monster
 Start
+
+---
+
+### Monster
+Start
+
+---
+
+### Monster
+Start
+
+---
+
+### Monster
+Start
+
+
+- Chimera
+- Homunculus
+- Automaton
+- Golem
+- Yalbao (lion-headed multi-armed serpent)

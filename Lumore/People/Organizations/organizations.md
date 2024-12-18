@@ -1,7 +1,7 @@
 # Organizations
 
 ## Introduction
-
+ 
 Organizations are globally recognized organizations that manage and take care of their specific focus of guild type
 
 ## Known Organizations

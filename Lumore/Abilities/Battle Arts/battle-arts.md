@@ -24,15 +24,6 @@ __Yeselui__, the orc, feared the Nightwalker's shadow steps. She mimiced it and 
 __Bhasith__, the dwarf, recognized the Hidden Expanse's allgrowing power. He mimiced it and developed the *Final Expansion Series*, a series of blows that can reshape the earth.
 __Jerilla__, the ogre, respected the Watcher's evervigilant gaze. He mimiced it and developed the *Pharid Eye Series*, a series of visual forms that can discern all.
 
-Physical - use power to enhance yourself as a medium
-water
-air
-Auxillary - use power to enhance an outer medium
-Manifestation - use the power of a more powerful entity
-Possesion - use the power of a more powerful entity for yourself
-space d
-time  d
-
 The auras known today are guided from this story...
 
 ## Known Art Technique Series

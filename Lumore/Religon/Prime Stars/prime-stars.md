@@ -23,8 +23,8 @@ The God of Darkness
 
 ### Rahdreal, Chaos Incarnate
 The God of Chaos
-- Chaosstar
+- Chaostar
 
 ### Grimini, The Reeaper
 The Goddess of Death
-- Deathstar
+- Deadstar

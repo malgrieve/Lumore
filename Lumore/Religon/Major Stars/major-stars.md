@@ -18,19 +18,19 @@ God of Knowledge and Wisedom
 
 ### Wolford, Nickname
 God of Magic and Sorcery
-- Magicstar
+- Magistar
 
 ### Asanna, Nickname
 Goddess of Love and Marraige
 - Lovestar
 
 ### Crozzen, Holysmith**
-God of Craft and the Forge
-- Forgestar
+Goddess of Craft and the Forge
+- Ironstar
 
 ### Yukire, Nickname
 God of Peace and Dreams
-- Dreamstar
+- Cloudstar
 
 ### Agil, Nickname
 God of Trade and Commerce
@@ -46,12 +46,12 @@ Goddess of Hunting and Farming
 
 ### Bingeal, The Blessed Healer
 God of Medicine and Alchemy
-- Healthstar
+- Medstar
 
 ## Astrayed Major Stars
 ### Krenari, Sin of Pride
 God of Pride
-- Pridestar
+- Egostar
 
 ### Gahl, Sin of Wrath
 God of Wrath
@@ -62,11 +62,11 @@ God of Forbidden Knowledge
 - Corruptstar
 
 ### Verbel, Sin of Witchcraft
-God of Witchcraft
+Goddess of Witchcraft
 - Witchstar
 
 ### Himhia, Sin of Lust
-God of Lust
+Goddess of Lust
 - Luststar
 
 ### Perizay, Sin of Sloth
@@ -74,7 +74,7 @@ God of Sloth
 - Slothstar
 
 ### Inachtra, 
-God of Nightmares
+Goddess of Nightmares
 - Marestar
 
 ### Lahkus, 
@@ -82,12 +82,12 @@ God of Greed
 - Greedstar
 
 ### Teher, 
-God of Misfortune
+Goddess of Misfortune
 - Badstar
 
 ### Eirnin,
 Goddess of Gluttony
-- Devourstar
+- Vourstar
 
 ### Neieba,
 God of Envy

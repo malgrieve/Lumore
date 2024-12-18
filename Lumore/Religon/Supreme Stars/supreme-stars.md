@@ -11,4 +11,4 @@ The God of Creation
 ## Astrayed Supreme Star
 ### Khuthulun, The End
 The Goddess of Destruction
-- Nightstar
+- Endstar

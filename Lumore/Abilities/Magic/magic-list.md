@@ -3,44 +3,199 @@ Magic List
 1 (Base Element) | 29 (Element Branch) | 5 (Branch Node) | 8 (Tier)
 
 Earth
-Water
-Air
-Fire
-Light
-Dark
-Space
-Time
-Ice
-Lava
-Storm
-Energy
-Sound
-Explosive
-Nuclear
-Plant
-Crystal
-Dream
-Fear
-Nightmare
-Shadow
-Poison
-Metal
-Lightning
-Toxic
-Blood
-Demon
-Holy
-Psyche
-Life
-Death
+Stone Mud Metal Crystal Plant Life Mirror Weapon Armor Mountain Creation
 
-Psyche Devil Incarnation Music Toxic Illusion Dream Nightmare Spirit Mud Float Speed Enchantment Mirror Rally Acid Field Weapon Armor Luck Scan Beast Game 
-Food Card Presence Law Attraction Rubber Purifying Soul Slayer Slime Rock Rain Wind Flame Radiant Shadow Position 
-Reduction Trap Barrier Stone Potion Flood Gust Blaze Luminous Balance Poison Black Domain Acceleration 
-Bedrock Current Vortex Inferno Ray Corruption Teleport Regression Flower Tree Summoning Igneous Golem Seal Paint Cyclone Storm Cloud Voice Contract Mind 
-Enhancement Eruption Redfire Explosion Blessing Mirror Holy Lazer Blood Curse Demon Absorption Gate Cosmic Warp Pause Quake Tidal Jet Star Anti 
-Subspace Temporal Mountain Nightstar Cosmic Ocean Sky Holyfire Hellfire Nuclear Draconic DragonSlayer Blackfire Whitefire Life Daystar Death Darkstar Void 
-Infinite Gravity Creation Realm Wish
+Water
+Ice Potion Poison Acid Blood Rain
+
+Air
+Storm Sound Toxic Music Illusion 
+
+Fire
+Lava Lightning Energy Explosive Nuclear Speed Enhancement Redfire
+
+Light
+Psyche Dream Holy Incarnation Enchantment Rally Luck Balance
+
+Dark
+Nightmare Fear Shadow Demon Devil Death Void
+
+Space
+Field Presence Gravity Realm Trap Barrier Domain
+
+Time
+Infinite 
+
+Spirit Float         Scan Beast Game 
+Food Card  Law Attraction Rubber Purifying Soul Slayer Slime  Wind Flame Radiant Shadow Position 
+Reduction     Flood Gust Blaze Luminous  Poison Black  Acceleration 
+Bedrock Current Vortex Inferno Ray Corruption Teleport Regression Flower Tree Summoning Igneous Golem Seal Paint Cyclone Storm Cloud Voice Contract Mind Blessing Mirror Holy Lazer Blood Curse Demon Absorption Gate Cosmic Warp Pause Quake Tidal Jet Star Anti 
+Subspace Temporal  Nightstar Cosmic Ocean Sky Holyfire Hellfire Nuclear Draconic DragonSlayer Blackfire Whitefire Life Daystar Darkstar  
+    Wish
+
+Toxic
+Illusion
+Storm
+Spirit
+Float
+Speed
+Enchantment
+Rally
+Acid
+Field
+Weapon
+Armor
+Luck
+Scan
+Beast
+Game
+Food
+Card
+Presence
+Law
+Attraction
+Rubber
+Purifying
+Soul
+Slayer
+Slime
+Plant
+Mud
+Sand
+Rain
+Ice
+Wind
+Steam
+Smoke
+Metal
+Crystal
+Trap
+Potion
+Flood
+Paint
+Sound
+Gust
+Barrier
+Lava
+Energy
+Blaze
+Luminous
+Balance
+Poison
+Black
+Domain
+Acceleration
+
+# High Tier
+Bedrock
+Golem
+Mirror
+Flower
+Current
+Vortex
+Music
+Inferno
+Ray
+Contract
+Corruption
+Teleport
+Regression
+
+# Advanced Tier
+Tree
+Summoning
+Igneous
+Metal
+Seal
+Whirlpool
+Cyclone
+Storm
+Cloud
+Voice
+Mind 
+Enhancement 
+Lightning 
+Eruption
+
+Music
+Toxic
+Illusion
+Dream
+Nightmare
+Spirit
+Mud
+Float
+Speed
+Enchantment
+Rally
+Acid
+Field
+Sword
+Map
+Armor
+Luck
+Scan
+Beast
+Game
+Food
+Card
+Presence
+Attraction
+Rubber
+Purifying
+Soul
+Slayer
+Slime
+Artillery
+Redfire
+Explosion
+Blessing
+Mirror
+Holy
+Lazer
+Blood
+Curse
+Absorption
+Gate
+Cosmic
+Warp
+Pause
+Quake
+Tidal
+Jet
+Dream
+Nightmare
+Star
+Anti
+Devil
+Subspace
+Temporal
+Mountain
+Nightstar
+Cosmic
+Ocean
+Sky
+Holyfire
+Hellfire
+Nuclear
+Draconic
+Dragon Slayer
+Blackfire
+Whitefire
+Life
+Daystar
+Death
+Demon
+Darkstar
+Void
+Gravity
+Infinite
+Divine 
+Wish
+Reincarnation
+Incarnation
+Realsm
+Creation
 
 ## Basic Tier ==>
 - 10001 __Earth Magic__ = Earth ==>

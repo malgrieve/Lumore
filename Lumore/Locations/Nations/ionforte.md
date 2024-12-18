@@ -9,13 +9,15 @@ Leader:
 Capital:
 
 ## Location
-Climate, Landscape: Hot, Spritshores
+Climate: Hot
+Landscape: Spritshores
 
 ## Population
 Population: Carmisseans,
 
 ## Economy
-Economy, Export: $$$, Tourism
+Economy: $$$
+Export: Tourism
 
 ## Military
 Top Soldier:

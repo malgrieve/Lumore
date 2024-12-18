@@ -4,26 +4,6 @@
 
 Start
 
-whale
-hunt whale
-dolphin
-shark
-stingray
-fish
-swordfish
-Shark
-- Whale
-- Squid
-- Manta Ray 
-- Dolphin 
-- Jellyfish
-- Blue dragon
-- Octopus 
-- Angler
-- Swordfish
-- Bass
-- Crab
-- Mantis Shrimp
 - Cuthulu
 - Leviathan
 - Devil Whale (Moby Dick)
@@ -53,7 +33,147 @@ Shark
 ## Known Beasts
 
 ### Monster
-Start
+Turtle
+
+---
+
+### Monster
+Swordfish
+
+---
+
+### Monster
+Shark
+
+---
+
+### Monster
+Whale
+
+---
+
+### Monster
+Dolphin
+
+---
+
+### Monster
+Orca
+
+---
+
+### Monster
+Squid
+
+---
+
+### Monster
+Octopus
+
+---
+
+### Monster
+Swordfish
+
+---
+
+### Monster
+Bass
+
+---
+
+### Monster
+Salmon
+
+---
+
+### Monster
+Eel
+
+---
+
+### Monster
+Pretty Fish
+
+---
+
+### Monster
+Poisonfish
+
+---
+
+### Monster
+Bluedragon
+
+---
+
+### Monster
+Jellyfish
+
+---
+
+### Monster
+Angler
+
+---
+
+### Monster
+Manta Ray
+
+---
+
+### Monster
+Crab
+
+---
+
+### Monster
+Shrimp
+
+---
+
+### Monster
+Lobster
+
+---
+
+### Monster
+Large Fish
+
+---
+
+### Monster
+Hammer Shark
+
+---
+
+### Monster
+Mini Shark
+
+---
+
+### Monster
+Mantis Shrimp
+
+---
+
+### Monster
+Rockfish
+
+---
+
+### Monster
+Pufferfish
+
+---
+
+### Monster
+Schoolfish
+
+---
+
+### Monster
+Catfish
 
 ---
 
@@ -94,6 +214,26 @@ Start
 
 ### Monster
 Start
+
+---
+
+### Monster
+Start
+
+---
+
+### Monster
+Start
+
+---
+
+### Monster
+Start
+
+---
+
+### Monster
+Pirranha
 
 
 <br/>
